@@ -1,2 +1,2 @@
 codigo 2
-codigo
+codigo del archivo cod 2
